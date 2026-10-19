@@ -1,0 +1,7 @@
+{
+  "tiers": [
+    { "tier": 1, "min_lb": 5, "max_lb": 19, "house_espresso": 11.5, "single_origin": 13.5, "holiday_blend": 14.0 },
+    { "tier": 2, "min_lb": 20, "max_lb": 39, "house_espresso": 10.5, "single_origin": 12.5, "holiday_blend": 13.0 },
+    { "tier": 3, "min_lb": 40, "max_lb": null, "house_espresso": 9.75, "single_origin": 11.75, "holiday_blend": 12.25 }
+  ]
+}
